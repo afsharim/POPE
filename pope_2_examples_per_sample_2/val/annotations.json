@@ -1,0 +1,5402 @@
+[
+  {
+    "filename": "COCO_val2014_000000113233.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000435707.jpg",
+    "instruction": "Is there a dining table in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000142942.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000031392.jpg",
+    "instruction": "Is there a frisbee in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000568508.jpg",
+    "instruction": "Is there a surfboard in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000319579.jpg",
+    "instruction": "Is there a keyboard in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000234057.jpg",
+    "instruction": "Is there a bird in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000323263.jpg",
+    "instruction": "Is there a dining table in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000485909.jpg",
+    "instruction": "Is there a laptop in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000259879.jpg",
+    "instruction": "Is there a laptop in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000330681.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000092939.jpg",
+    "instruction": "Is there a wine glass in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000136218.jpg",
+    "instruction": "Is there an airplane in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000270048.jpg",
+    "instruction": "Is there a car in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000163258.jpg",
+    "instruction": "Is there a bottle in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000214046.jpg",
+    "instruction": "Is there a dining table in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000505243.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000321665.jpg",
+    "instruction": "Is there a clock in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000092939.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000344875.jpg",
+    "instruction": "Is there a banana in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000340478.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000258762.jpg",
+    "instruction": "Is there a dining table in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000209901.jpg",
+    "instruction": "Is there a traffic light in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000400152.jpg",
+    "instruction": "Is there a train in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000060792.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000109454.jpg",
+    "instruction": "Is there a dining table in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000372317.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000369482.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000275744.jpg",
+    "instruction": "Is there a train in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000551608.jpg",
+    "instruction": "Is there a dining table in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000326564.jpg",
+    "instruction": "Is there a toilet in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000053503.jpg",
+    "instruction": "Is there a potted plant in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000152740.jpg",
+    "instruction": "Is there a cow in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000502663.jpg",
+    "instruction": "Is there a truck in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000358653.jpg",
+    "instruction": "Is there a bottle in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000113251.jpg",
+    "instruction": "Is there a chair in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000209773.jpg",
+    "instruction": "Is there an umbrella in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000372317.jpg",
+    "instruction": "Is there a toilet in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000557562.jpg",
+    "instruction": "Is there a toaster in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000565986.jpg",
+    "instruction": "Is there a chair in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000468736.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000124297.jpg",
+    "instruction": "Is there a dining table in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000257864.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000138517.jpg",
+    "instruction": "Is there a vase in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000369482.jpg",
+    "instruction": "Is there a stop sign in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000444304.jpg",
+    "instruction": "Is there a bed in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000507719.jpg",
+    "instruction": "Is there a wine glass in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000444304.jpg",
+    "instruction": "Is there a chair in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000309539.jpg",
+    "instruction": "Is there a pizza in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000536416.jpg",
+    "instruction": "Is there a car in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000505933.jpg",
+    "instruction": "Is there a fork in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000470095.jpg",
+    "instruction": "Is there a car in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000254491.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000465588.jpg",
+    "instruction": "Is there a pizza in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000382122.jpg",
+    "instruction": "Is there a clock in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000525702.jpg",
+    "instruction": "Is there a chair in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000262466.jpg",
+    "instruction": "Is there a vase in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000049683.jpg",
+    "instruction": "Is there a dining table in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000561750.jpg",
+    "instruction": "Is there a suitcase in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000323263.jpg",
+    "instruction": "Is there a handbag in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000468736.jpg",
+    "instruction": "Is there a broccoli in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000545250.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000436264.jpg",
+    "instruction": "Is there a zebra in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000369482.jpg",
+    "instruction": "Is there a fork in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000113251.jpg",
+    "instruction": "Is there a remote in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000296906.jpg",
+    "instruction": "Is there a dining table in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000509867.jpg",
+    "instruction": "Is there a chair in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000557562.jpg",
+    "instruction": "Is there a dining table in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000191471.jpg",
+    "instruction": "Is there a car in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000579666.jpg",
+    "instruction": "Is there a tv in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000333845.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000257864.jpg",
+    "instruction": "Is there a bottle in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000079229.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000435707.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000307932.jpg",
+    "instruction": "Is there a sheep in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000006894.jpg",
+    "instruction": "Is there a dining table in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000157365.jpg",
+    "instruction": "Is there a backpack in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000288000.jpg",
+    "instruction": "Is there an oven in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000507719.jpg",
+    "instruction": "Is there a dining table in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000113251.jpg",
+    "instruction": "Is there a traffic light in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000327352.jpg",
+    "instruction": "Is there a backpack in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000077402.jpg",
+    "instruction": "Is there a tv in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000288000.jpg",
+    "instruction": "Is there a dining table in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000063595.jpg",
+    "instruction": "Is there a tennis racket in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000212688.jpg",
+    "instruction": "Is there a bear in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000438667.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000213649.jpg",
+    "instruction": "Is there a chair in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000213649.jpg",
+    "instruction": "Is there a traffic light in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000486355.jpg",
+    "instruction": "Is there a teddy bear in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000469719.jpg",
+    "instruction": "Is there a sink in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000163258.jpg",
+    "instruction": "Is there a toilet in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000532876.jpg",
+    "instruction": "Is there a skis in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000049683.jpg",
+    "instruction": "Is there a bicycle in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000031597.jpg",
+    "instruction": "Is there a vase in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000551608.jpg",
+    "instruction": "Is there a cake in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000329568.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000364274.jpg",
+    "instruction": "Is there a clock in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000485368.jpg",
+    "instruction": "Is there a chair in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000551608.jpg",
+    "instruction": "Is there a cell phone in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000259879.jpg",
+    "instruction": "Is there a dog in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000391347.jpg",
+    "instruction": "Is there a stop sign in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000568508.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000527906.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000214046.jpg",
+    "instruction": "Is there a dining table in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000428280.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000382122.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000058139.jpg",
+    "instruction": "Is there a tv in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000113233.jpg",
+    "instruction": "Is there a car in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000381999.jpg",
+    "instruction": "Is there a car in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000505933.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000214046.jpg",
+    "instruction": "Is there a scissors in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000053503.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000340478.jpg",
+    "instruction": "Is there a frisbee in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000200567.jpg",
+    "instruction": "Is there a truck in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000445953.jpg",
+    "instruction": "Is there a dining table in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000259879.jpg",
+    "instruction": "Is there a cat in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000507719.jpg",
+    "instruction": "Is there a car in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000287235.jpg",
+    "instruction": "Is there a carrot in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000525702.jpg",
+    "instruction": "Is there a cell phone in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000213421.jpg",
+    "instruction": "Is there a toilet in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000108440.jpg",
+    "instruction": "Is there a pizza in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000425805.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000209773.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000075591.jpg",
+    "instruction": "Is there a car in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000213421.jpg",
+    "instruction": "Is there an umbrella in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000262440.jpg",
+    "instruction": "Is there a sink in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000382533.jpg",
+    "instruction": "Is there a tv in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000369482.jpg",
+    "instruction": "Is there a traffic light in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000289194.jpg",
+    "instruction": "Is there a toaster in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000323263.jpg",
+    "instruction": "Is there a sports ball in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000369482.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000340478.jpg",
+    "instruction": "Is there a horse in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000257336.jpg",
+    "instruction": "Is there a broccoli in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000316700.jpg",
+    "instruction": "Is there a cow in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000191471.jpg",
+    "instruction": "Is there a stop sign in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000109454.jpg",
+    "instruction": "Is there a cell phone in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000033626.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000580829.jpg",
+    "instruction": "Is there a mouse in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000184972.jpg",
+    "instruction": "Is there a dining table in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000428992.jpg",
+    "instruction": "Is there an elephant in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000326564.jpg",
+    "instruction": "Is there a sink in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000076176.jpg",
+    "instruction": "Is there a cup in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000561750.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000403150.jpg",
+    "instruction": "Is there a dining table in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000382122.jpg",
+    "instruction": "Is there a clock in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000359239.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000386012.jpg",
+    "instruction": "Is there a dining table in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000468121.jpg",
+    "instruction": "Is there a suitcase in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000121632.jpg",
+    "instruction": "Is there a pizza in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000509867.jpg",
+    "instruction": "Is there a dining table in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000357992.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000441072.jpg",
+    "instruction": "Is there a chair in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000025096.jpg",
+    "instruction": "Is there a dining table in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000469719.jpg",
+    "instruction": "Is there a skis in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000051801.jpg",
+    "instruction": "Is there a chair in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000448849.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000063595.jpg",
+    "instruction": "Is there a dining table in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000428280.jpg",
+    "instruction": "Is there a dining table in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000381999.jpg",
+    "instruction": "Is there a bird in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000296906.jpg",
+    "instruction": "Is there a backpack in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000031392.jpg",
+    "instruction": "Is there a cat in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000525702.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000184972.jpg",
+    "instruction": "Is there a chair in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000468121.jpg",
+    "instruction": "Is there a dining table in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000326564.jpg",
+    "instruction": "Is there a bowl in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000184972.jpg",
+    "instruction": "Is there a book in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000391347.jpg",
+    "instruction": "Is there a car in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000031392.jpg",
+    "instruction": "Is there a laptop in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000025096.jpg",
+    "instruction": "Is there a car in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000316700.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000220344.jpg",
+    "instruction": "Is there a tie in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000326564.jpg",
+    "instruction": "Is there a bottle in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000102174.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000437145.jpg",
+    "instruction": "Is there a train in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000163258.jpg",
+    "instruction": "Is there a sink in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000291791.jpg",
+    "instruction": "Is there a car in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000258762.jpg",
+    "instruction": "Is there a dining table in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000138517.jpg",
+    "instruction": "Is there a wine glass in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000121632.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000537369.jpg",
+    "instruction": "Is there a bowl in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000257336.jpg",
+    "instruction": "Is there a spoon in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000232625.jpg",
+    "instruction": "Is there a dining table in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000124297.jpg",
+    "instruction": "Is there a car in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000448849.jpg",
+    "instruction": "Is there a train in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000195914.jpg",
+    "instruction": "Is there a chair in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000164788.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000507719.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000257336.jpg",
+    "instruction": "Is there a dining table in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000447546.jpg",
+    "instruction": "Is there a knife in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000025096.jpg",
+    "instruction": "Is there a cup in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000580829.jpg",
+    "instruction": "Is there a car in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000291664.jpg",
+    "instruction": "Is there a fire hydrant in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000121632.jpg",
+    "instruction": "Is there a knife in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000075591.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000344875.jpg",
+    "instruction": "Is there a cake in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000005486.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000486355.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000558371.jpg",
+    "instruction": "Is there a cell phone in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000330681.jpg",
+    "instruction": "Is there a car in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000359239.jpg",
+    "instruction": "Is there a fork in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000015335.jpg",
+    "instruction": "Is there a couch in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000321665.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000113233.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000436264.jpg",
+    "instruction": "Is there a sports ball in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000536416.jpg",
+    "instruction": "Is there a dining table in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000209773.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000079229.jpg",
+    "instruction": "Is there a horse in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000281032.jpg",
+    "instruction": "Is there a bowl in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000536416.jpg",
+    "instruction": "Is there a mouse in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000191471.jpg",
+    "instruction": "Is there a cell phone in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000382122.jpg",
+    "instruction": "Is there a clock in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000058139.jpg",
+    "instruction": "Is there a chair in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000438667.jpg",
+    "instruction": "Is there a bed in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000291791.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000565986.jpg",
+    "instruction": "Is there a pizza in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000327352.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000501023.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000031597.jpg",
+    "instruction": "Is there a vase in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000136218.jpg",
+    "instruction": "Is there a car in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000167166.jpg",
+    "instruction": "Is there a car in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000505243.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000108440.jpg",
+    "instruction": "Is there a train in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000228411.jpg",
+    "instruction": "Is there a traffic light in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000323263.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000257864.jpg",
+    "instruction": "Is there a sandwich in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000382533.jpg",
+    "instruction": "Is there a tv in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000234057.jpg",
+    "instruction": "Is there a bird in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000307932.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000558371.jpg",
+    "instruction": "Is there a pizza in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000275744.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000288000.jpg",
+    "instruction": "Is there a cup in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000213649.jpg",
+    "instruction": "Is there a clock in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000031597.jpg",
+    "instruction": "Is there a dining table in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000485909.jpg",
+    "instruction": "Is there a chair in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000025096.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000004749.jpg",
+    "instruction": "Is there a dining table in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000167166.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000444304.jpg",
+    "instruction": "Is there a tv in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000136218.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000152740.jpg",
+    "instruction": "Is there a cow in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000124297.jpg",
+    "instruction": "Is there a traffic light in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000242465.jpg",
+    "instruction": "Is there a stop sign in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000077402.jpg",
+    "instruction": "Is there a fork in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000359239.jpg",
+    "instruction": "Is there a horse in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000566920.jpg",
+    "instruction": "Is there a fork in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000315705.jpg",
+    "instruction": "Is there a dining table in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000321665.jpg",
+    "instruction": "Is there a clock in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000138517.jpg",
+    "instruction": "Is there a potted plant in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000527906.jpg",
+    "instruction": "Is there a truck in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000113233.jpg",
+    "instruction": "Is there a spoon in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000485368.jpg",
+    "instruction": "Is there a vase in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000079229.jpg",
+    "instruction": "Is there a dining table in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000228411.jpg",
+    "instruction": "Is there a dining table in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000259879.jpg",
+    "instruction": "Is there a cat in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000435707.jpg",
+    "instruction": "Is there an apple in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000005486.jpg",
+    "instruction": "Is there a bottle in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000092939.jpg",
+    "instruction": "Is there a dining table in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000142942.jpg",
+    "instruction": "Is there a donut in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000270048.jpg",
+    "instruction": "Is there a train in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000209773.jpg",
+    "instruction": "Is there a dining table in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000316700.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000076176.jpg",
+    "instruction": "Is there a scissors in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000469719.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000329568.jpg",
+    "instruction": "Is there an oven in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000364274.jpg",
+    "instruction": "Is there a clock in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000344875.jpg",
+    "instruction": "Is there a banana in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000579666.jpg",
+    "instruction": "Is there a book in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000485368.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000262466.jpg",
+    "instruction": "Is there a hot dog in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000319579.jpg",
+    "instruction": "Is there a car in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000138517.jpg",
+    "instruction": "Is there a zebra in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000287235.jpg",
+    "instruction": "Is there a horse in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000397225.jpg",
+    "instruction": "Is there a dining table in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000372317.jpg",
+    "instruction": "Is there a bus in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000572630.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000537369.jpg",
+    "instruction": "Is there a dining table in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000079229.jpg",
+    "instruction": "Is there a dog in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000561750.jpg",
+    "instruction": "Is there an elephant in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000164788.jpg",
+    "instruction": "Is there a cake in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000033626.jpg",
+    "instruction": "Is there a bed in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000330681.jpg",
+    "instruction": "Is there a stop sign in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000536416.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000485368.jpg",
+    "instruction": "Is there a chair in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000382533.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000425805.jpg",
+    "instruction": "Is there a dining table in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000551608.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000015335.jpg",
+    "instruction": "Is there a bowl in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000315705.jpg",
+    "instruction": "Is there a car in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000391347.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000557562.jpg",
+    "instruction": "Is there a dining table in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000319579.jpg",
+    "instruction": "Is there a backpack in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000486355.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000167166.jpg",
+    "instruction": "Is there a truck in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000461884.jpg",
+    "instruction": "Is there a dining table in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000232625.jpg",
+    "instruction": "Is there a skis in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000200567.jpg",
+    "instruction": "Is there a sports ball in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000323263.jpg",
+    "instruction": "Is there a dining table in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000309539.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000213421.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000417481.jpg",
+    "instruction": "Is there a dining table in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000136218.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000220344.jpg",
+    "instruction": "Is there a zebra in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000287235.jpg",
+    "instruction": "Is there a dining table in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000234057.jpg",
+    "instruction": "Is there a sheep in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000112751.jpg",
+    "instruction": "Is there a car in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000005724.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000237517.jpg",
+    "instruction": "Is there a spoon in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000236461.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000505933.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000031392.jpg",
+    "instruction": "Is there a car in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000234057.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000176289.jpg",
+    "instruction": "Is there a bed in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000428280.jpg",
+    "instruction": "Is there a chair in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000006894.jpg",
+    "instruction": "Is there a truck in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000400152.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000525702.jpg",
+    "instruction": "Is there a dining table in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000321665.jpg",
+    "instruction": "Is there a toothbrush in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000213649.jpg",
+    "instruction": "Is there a dining table in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000309539.jpg",
+    "instruction": "Is there an orange in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000327352.jpg",
+    "instruction": "Is there a suitcase in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000296906.jpg",
+    "instruction": "Is there a snowboard in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000254491.jpg",
+    "instruction": "Is there a snowboard in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000176289.jpg",
+    "instruction": "Is there a bed in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000580829.jpg",
+    "instruction": "Is there a car in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000006894.jpg",
+    "instruction": "Is there a sports ball in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000501023.jpg",
+    "instruction": "Is there a stop sign in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000501023.jpg",
+    "instruction": "Is there a traffic light in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000270048.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000324258.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000163258.jpg",
+    "instruction": "Is there a bowl in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000212688.jpg",
+    "instruction": "Is there a bear in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000209773.jpg",
+    "instruction": "Is there a car in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000112751.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000507719.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000006894.jpg",
+    "instruction": "Is there a fire hydrant in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000213649.jpg",
+    "instruction": "Is there an elephant in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000306395.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000215062.jpg",
+    "instruction": "Is there a laptop in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000340478.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000113251.jpg",
+    "instruction": "Is there a dining table in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000507719.jpg",
+    "instruction": "Is there a horse in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000537369.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000344875.jpg",
+    "instruction": "Is there a bowl in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000447546.jpg",
+    "instruction": "Is there a laptop in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000167166.jpg",
+    "instruction": "Is there a truck in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000176289.jpg",
+    "instruction": "Is there a chair in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000364274.jpg",
+    "instruction": "Is there a clock in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000568508.jpg",
+    "instruction": "Is there a cat in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000485909.jpg",
+    "instruction": "Is there an elephant in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000063595.jpg",
+    "instruction": "Is there a carrot in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000468121.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000382122.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000200567.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000359239.jpg",
+    "instruction": "Is there a dining table in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000015335.jpg",
+    "instruction": "Is there a chair in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000275744.jpg",
+    "instruction": "Is there a fork in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000077402.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000372317.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000386012.jpg",
+    "instruction": "Is there a surfboard in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000461884.jpg",
+    "instruction": "Is there a car in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000209773.jpg",
+    "instruction": "Is there a donut in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000565986.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000558371.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000262466.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000005486.jpg",
+    "instruction": "Is there a parking meter in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000033626.jpg",
+    "instruction": "Is there a bed in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000527906.jpg",
+    "instruction": "Is there a sandwich in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000444304.jpg",
+    "instruction": "Is there a dining table in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000142942.jpg",
+    "instruction": "Is there a traffic light in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000448849.jpg",
+    "instruction": "Is there a dining table in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000558371.jpg",
+    "instruction": "Is there a bowl in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000316700.jpg",
+    "instruction": "Is there a broccoli in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000579666.jpg",
+    "instruction": "Is there a dining table in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000527906.jpg",
+    "instruction": "Is there a potted plant in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000461884.jpg",
+    "instruction": "Is there a surfboard in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000259879.jpg",
+    "instruction": "Is there a cat in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000051801.jpg",
+    "instruction": "Is there a bowl in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000465588.jpg",
+    "instruction": "Is there a dining table in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000077402.jpg",
+    "instruction": "Is there a spoon in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000254491.jpg",
+    "instruction": "Is there a bicycle in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000026501.jpg",
+    "instruction": "Is there a truck in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000532876.jpg",
+    "instruction": "Is there a stop sign in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000237517.jpg",
+    "instruction": "Is there a train in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000079229.jpg",
+    "instruction": "Is there a backpack in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000242465.jpg",
+    "instruction": "Is there a car in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000568508.jpg",
+    "instruction": "Is there a laptop in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000381999.jpg",
+    "instruction": "Is there a dining table in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000417481.jpg",
+    "instruction": "Is there a tie in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000444304.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000468736.jpg",
+    "instruction": "Is there a broccoli in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000213421.jpg",
+    "instruction": "Is there a book in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000441072.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000142942.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000572630.jpg",
+    "instruction": "Is there a motorcycle in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000049683.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000121632.jpg",
+    "instruction": "Is there a dining table in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000453166.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000357992.jpg",
+    "instruction": "Is there a dining table in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000505243.jpg",
+    "instruction": "Is there a clock in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000435707.jpg",
+    "instruction": "Is there a laptop in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000291664.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000428280.jpg",
+    "instruction": "Is there an airplane in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000441072.jpg",
+    "instruction": "Is there a chair in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000509867.jpg",
+    "instruction": "Is there a sports ball in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000051801.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000195914.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000306395.jpg",
+    "instruction": "Is there a bed in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000289194.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000214664.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000291664.jpg",
+    "instruction": "Is there a spoon in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000447546.jpg",
+    "instruction": "Is there a dining table in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000167166.jpg",
+    "instruction": "Is there a laptop in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000579666.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000060792.jpg",
+    "instruction": "Is there a sink in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000505933.jpg",
+    "instruction": "Is there a car in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000004749.jpg",
+    "instruction": "Is there a traffic light in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000527906.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000164788.jpg",
+    "instruction": "Is there a cat in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000306395.jpg",
+    "instruction": "Is there a cat in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000364274.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000448849.jpg",
+    "instruction": "Is there a boat in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000004749.jpg",
+    "instruction": "Is there a bowl in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000195914.jpg",
+    "instruction": "Is there a dining table in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000509867.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000566920.jpg",
+    "instruction": "Is there a spoon in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000257336.jpg",
+    "instruction": "Is there a scissors in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000465588.jpg",
+    "instruction": "Is there a car in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000359239.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000437145.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000133821.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000232625.jpg",
+    "instruction": "Is there a couch in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000391347.jpg",
+    "instruction": "Is there a zebra in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000113233.jpg",
+    "instruction": "Is there a dining table in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000309539.jpg",
+    "instruction": "Is there a bottle in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000358653.jpg",
+    "instruction": "Is there a potted plant in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000237517.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000191471.jpg",
+    "instruction": "Is there a stop sign in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000058139.jpg",
+    "instruction": "Is there a couch in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000258762.jpg",
+    "instruction": "Is there a dog in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000437145.jpg",
+    "instruction": "Is there a train in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000004749.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000344875.jpg",
+    "instruction": "Is there a banana in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000403150.jpg",
+    "instruction": "Is there a tennis racket in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000015335.jpg",
+    "instruction": "Is there a frisbee in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000049683.jpg",
+    "instruction": "Is there a dog in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000568508.jpg",
+    "instruction": "Is there a cat in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000428280.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000077402.jpg",
+    "instruction": "Is there a dining table in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000005724.jpg",
+    "instruction": "Is there a dining table in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000358653.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000288000.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000326564.jpg",
+    "instruction": "Is there a parking meter in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000357992.jpg",
+    "instruction": "Is there an oven in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000545250.jpg",
+    "instruction": "Is there a horse in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000113233.jpg",
+    "instruction": "Is there a skis in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000532876.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000214664.jpg",
+    "instruction": "Is there a sink in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000288000.jpg",
+    "instruction": "Is there an umbrella in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000425805.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000270048.jpg",
+    "instruction": "Is there a remote in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000236461.jpg",
+    "instruction": "Is there a toaster in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000076176.jpg",
+    "instruction": "Is there a bowl in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000403150.jpg",
+    "instruction": "Is there a suitcase in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000580829.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000324258.jpg",
+    "instruction": "Is there a dining table in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000417481.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000257864.jpg",
+    "instruction": "Is there a fork in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000469719.jpg",
+    "instruction": "Is there a car in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000102174.jpg",
+    "instruction": "Is there a tv in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000428280.jpg",
+    "instruction": "Is there a laptop in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000537369.jpg",
+    "instruction": "Is there a baseball bat in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000444304.jpg",
+    "instruction": "Is there a dining table in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000262440.jpg",
+    "instruction": "Is there a bowl in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000525702.jpg",
+    "instruction": "Is there a dining table in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000214664.jpg",
+    "instruction": "Is there a dining table in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000113251.jpg",
+    "instruction": "Is there a truck in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000397225.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000005724.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000437145.jpg",
+    "instruction": "Is there a dog in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000026501.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000441072.jpg",
+    "instruction": "Is there a broccoli in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000403150.jpg",
+    "instruction": "Is there a sports ball in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000307932.jpg",
+    "instruction": "Is there an elephant in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000453166.jpg",
+    "instruction": "Is there a dining table in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000505933.jpg",
+    "instruction": "Is there a train in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000195914.jpg",
+    "instruction": "Is there a backpack in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000195914.jpg",
+    "instruction": "Is there a bench in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000053503.jpg",
+    "instruction": "Is there a vase in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000291664.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000109454.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000323263.jpg",
+    "instruction": "Is there a cell phone in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000112751.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000033626.jpg",
+    "instruction": "Is there a toilet in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000391347.jpg",
+    "instruction": "Is there a stop sign in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000006894.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000133821.jpg",
+    "instruction": "Is there a bird in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000213421.jpg",
+    "instruction": "Is there a dining table in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000400152.jpg",
+    "instruction": "Is there a mouse in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000417481.jpg",
+    "instruction": "Is there a motorcycle in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000437145.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000321665.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000220344.jpg",
+    "instruction": "Is there a zebra in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000468121.jpg",
+    "instruction": "Is there a chair in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000382122.jpg",
+    "instruction": "Is there a skis in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000053503.jpg",
+    "instruction": "Is there a dining table in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000436264.jpg",
+    "instruction": "Is there a baseball bat in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000306395.jpg",
+    "instruction": "Is there a motorcycle in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000397225.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000436264.jpg",
+    "instruction": "Is there a baseball glove in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000485909.jpg",
+    "instruction": "Is there a mouse in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000133821.jpg",
+    "instruction": "Is there a microwave in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000060792.jpg",
+    "instruction": "Is there a laptop in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000501023.jpg",
+    "instruction": "Is there an elephant in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000561750.jpg",
+    "instruction": "Is there a bus in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000572630.jpg",
+    "instruction": "Is there a car in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000236461.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000386012.jpg",
+    "instruction": "Is there an umbrella in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000333845.jpg",
+    "instruction": "Is there a banana in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000465868.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000572630.jpg",
+    "instruction": "Is there an elephant in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000005724.jpg",
+    "instruction": "Is there a fork in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000213649.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000551608.jpg",
+    "instruction": "Is there a car in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000157365.jpg",
+    "instruction": "Is there a dining table in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000329568.jpg",
+    "instruction": "Is there a dining table in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000220344.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000505243.jpg",
+    "instruction": "Is there a dining table in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000234057.jpg",
+    "instruction": "Is there a cow in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000428992.jpg",
+    "instruction": "Is there a clock in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000436264.jpg",
+    "instruction": "Is there a dining table in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000214046.jpg",
+    "instruction": "Is there a bowl in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000262440.jpg",
+    "instruction": "Is there a banana in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000058139.jpg",
+    "instruction": "Is there a cup in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000505933.jpg",
+    "instruction": "Is there a truck in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000275744.jpg",
+    "instruction": "Is there a train in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000536416.jpg",
+    "instruction": "Is there a surfboard in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000327352.jpg",
+    "instruction": "Is there a toaster in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000051801.jpg",
+    "instruction": "Is there a spoon in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000425805.jpg",
+    "instruction": "Is there a handbag in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000025096.jpg",
+    "instruction": "Is there a banana in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000319579.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000291791.jpg",
+    "instruction": "Is there a truck in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000109454.jpg",
+    "instruction": "Is there a bottle in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000075591.jpg",
+    "instruction": "Is there a book in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000438667.jpg",
+    "instruction": "Is there an airplane in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000124297.jpg",
+    "instruction": "Is there a truck in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000237517.jpg",
+    "instruction": "Is there a knife in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000291791.jpg",
+    "instruction": "Is there a motorcycle in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000254491.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000315705.jpg",
+    "instruction": "Is there a clock in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000092939.jpg",
+    "instruction": "Is there a knife in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000445953.jpg",
+    "instruction": "Is there a horse in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000470095.jpg",
+    "instruction": "Is there a book in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000468121.jpg",
+    "instruction": "Is there a bottle in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000485368.jpg",
+    "instruction": "Is there a dining table in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000532876.jpg",
+    "instruction": "Is there a backpack in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000333845.jpg",
+    "instruction": "Is there a bowl in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000270048.jpg",
+    "instruction": "Is there a train in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000289194.jpg",
+    "instruction": "Is there a dining table in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000364274.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000237517.jpg",
+    "instruction": "Is there a bowl in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000333845.jpg",
+    "instruction": "Is there a surfboard in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000505243.jpg",
+    "instruction": "Is there a bear in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000470095.jpg",
+    "instruction": "Is there a backpack in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000438667.jpg",
+    "instruction": "Is there a chair in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000319579.jpg",
+    "instruction": "Is there a laptop in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000465868.jpg",
+    "instruction": "Is there a cat in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000358653.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000326564.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000545250.jpg",
+    "instruction": "Is there a refrigerator in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000561750.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000324258.jpg",
+    "instruction": "Is there a bottle in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000164788.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000109454.jpg",
+    "instruction": "Is there a dining table in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000005486.jpg",
+    "instruction": "Is there a potted plant in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000315705.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000214664.jpg",
+    "instruction": "Is there a cup in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000537369.jpg",
+    "instruction": "Is there a chair in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000453166.jpg",
+    "instruction": "Is there a car in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000060792.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000468736.jpg",
+    "instruction": "Is there a broccoli in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000005486.jpg",
+    "instruction": "Is there a couch in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000340478.jpg",
+    "instruction": "Is there a horse in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000031392.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000381999.jpg",
+    "instruction": "Is there a truck in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000287235.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000167166.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000209901.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000565986.jpg",
+    "instruction": "Is there a dining table in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000391347.jpg",
+    "instruction": "Is there a stop sign in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000262440.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000242465.jpg",
+    "instruction": "Is there a stop sign in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000580829.jpg",
+    "instruction": "Is there a car in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000058139.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000447546.jpg",
+    "instruction": "Is there a bowl in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000579666.jpg",
+    "instruction": "Is there a car in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000372317.jpg",
+    "instruction": "Is there a parking meter in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000275744.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000121632.jpg",
+    "instruction": "Is there a cow in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000025096.jpg",
+    "instruction": "Is there a skateboard in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000026501.jpg",
+    "instruction": "Is there a clock in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000469719.jpg",
+    "instruction": "Is there a dining table in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000509867.jpg",
+    "instruction": "Is there a tennis racket in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000400152.jpg",
+    "instruction": "Is there a car in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000004749.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000428992.jpg",
+    "instruction": "Is there a pizza in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000470095.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000403150.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000212688.jpg",
+    "instruction": "Is there a bear in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000236461.jpg",
+    "instruction": "Is there a surfboard in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000063595.jpg",
+    "instruction": "Is there a sports ball in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000381999.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000242465.jpg",
+    "instruction": "Is there a stop sign in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000485368.jpg",
+    "instruction": "Is there a scissors in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000321665.jpg",
+    "instruction": "Is there a train in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000075591.jpg",
+    "instruction": "Is there a bed in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000403150.jpg",
+    "instruction": "Is there a baseball glove in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000545250.jpg",
+    "instruction": "Is there an airplane in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000075591.jpg",
+    "instruction": "Is there a cat in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000400152.jpg",
+    "instruction": "Is there a train in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000486355.jpg",
+    "instruction": "Is there a dining table in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000324258.jpg",
+    "instruction": "Is there a scissors in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000102174.jpg",
+    "instruction": "Is there a traffic light in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000164788.jpg",
+    "instruction": "Is there a dining table in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000191471.jpg",
+    "instruction": "Is there a stop sign in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000316700.jpg",
+    "instruction": "Is there a dining table in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000465588.jpg",
+    "instruction": "Is there a surfboard in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000461884.jpg",
+    "instruction": "Is there a boat in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000296906.jpg",
+    "instruction": "Is there a frisbee in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000561750.jpg",
+    "instruction": "Is there a suitcase in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000468736.jpg",
+    "instruction": "Is there a carrot in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000124297.jpg",
+    "instruction": "Is there a tennis racket in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000536416.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000445953.jpg",
+    "instruction": "Is there a car in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000291791.jpg",
+    "instruction": "Is there a dining table in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000502663.jpg",
+    "instruction": "Is there a handbag in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000257864.jpg",
+    "instruction": "Is there a cup in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000164788.jpg",
+    "instruction": "Is there a cake in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000329568.jpg",
+    "instruction": "Is there a broccoli in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000102174.jpg",
+    "instruction": "Is there a book in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000428992.jpg",
+    "instruction": "Is there an oven in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000076176.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000447546.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000262466.jpg",
+    "instruction": "Is there a tie in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000557562.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000296906.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000281032.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000200567.jpg",
+    "instruction": "Is there a baseball bat in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000063595.jpg",
+    "instruction": "Is there a chair in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000465588.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000288000.jpg",
+    "instruction": "Is there a cup in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000306395.jpg",
+    "instruction": "Is there a dog in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000058139.jpg",
+    "instruction": "Is there a bed in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000212688.jpg",
+    "instruction": "Is there a teddy bear in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000258762.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000163258.jpg",
+    "instruction": "Is there a sink in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000509867.jpg",
+    "instruction": "Is there a hair drier in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000447546.jpg",
+    "instruction": "Is there a dining table in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000486355.jpg",
+    "instruction": "Is there a fire hydrant in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000092939.jpg",
+    "instruction": "Is there a hot dog in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000428992.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000319579.jpg",
+    "instruction": "Is there a sports ball in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000234057.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000579666.jpg",
+    "instruction": "Is there a backpack in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000558371.jpg",
+    "instruction": "Is there a dining table in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000215062.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000212688.jpg",
+    "instruction": "Is there a stop sign in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000453166.jpg",
+    "instruction": "Is there a clock in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000438667.jpg",
+    "instruction": "Is there a bed in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000215062.jpg",
+    "instruction": "Is there a fork in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000358653.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000051801.jpg",
+    "instruction": "Is there a keyboard in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000133821.jpg",
+    "instruction": "Is there a bird in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000033626.jpg",
+    "instruction": "Is there a chair in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000445953.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000485909.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000438667.jpg",
+    "instruction": "Is there a cat in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000566920.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000445953.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000109454.jpg",
+    "instruction": "Is there a tie in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000138517.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000468121.jpg",
+    "instruction": "Is there a dining table in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000333845.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000228411.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000053503.jpg",
+    "instruction": "Is there a refrigerator in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000092939.jpg",
+    "instruction": "Is there a dining table in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000435707.jpg",
+    "instruction": "Is there a cell phone in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000213421.jpg",
+    "instruction": "Is there a handbag in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000307932.jpg",
+    "instruction": "Is there an elephant in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000461884.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000112751.jpg",
+    "instruction": "Is there a surfboard in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000306395.jpg",
+    "instruction": "Is there a laptop in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000124297.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000580829.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000228411.jpg",
+    "instruction": "Is there a chair in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000049683.jpg",
+    "instruction": "Is there a motorcycle in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000470095.jpg",
+    "instruction": "Is there a dining table in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000330681.jpg",
+    "instruction": "Is there a sandwich in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000382533.jpg",
+    "instruction": "Is there a dining table in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000005486.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000053503.jpg",
+    "instruction": "Is there a vase in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000108440.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000281032.jpg",
+    "instruction": "Is there a spoon in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000209901.jpg",
+    "instruction": "Is there a clock in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000566920.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000228411.jpg",
+    "instruction": "Is there a truck in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000077402.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000258762.jpg",
+    "instruction": "Is there a potted plant in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000015335.jpg",
+    "instruction": "Is there a chair in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000142942.jpg",
+    "instruction": "Is there a boat in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000133821.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000033626.jpg",
+    "instruction": "Is there a cup in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000015335.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000102174.jpg",
+    "instruction": "Is there a bird in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000532876.jpg",
+    "instruction": "Is there a train in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000358653.jpg",
+    "instruction": "Is there a bowl in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000184972.jpg",
+    "instruction": "Is there a laptop in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000184972.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000565986.jpg",
+    "instruction": "Is there a couch in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000214046.jpg",
+    "instruction": "Is there a bird in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000465868.jpg",
+    "instruction": "Is there a cat in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000566920.jpg",
+    "instruction": "Is there a tie in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000232625.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000176289.jpg",
+    "instruction": "Is there a cat in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000108440.jpg",
+    "instruction": "Is there a train in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000324258.jpg",
+    "instruction": "Is there a dining table in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000386012.jpg",
+    "instruction": "Is there a kite in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000136218.jpg",
+    "instruction": "Is there a car in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000026501.jpg",
+    "instruction": "Is there a bus in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000005724.jpg",
+    "instruction": "Is there a knife in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000200567.jpg",
+    "instruction": "Is there a dining table in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000287235.jpg",
+    "instruction": "Is there a car in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000281032.jpg",
+    "instruction": "Is there a dining table in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000448849.jpg",
+    "instruction": "Is there a car in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000152740.jpg",
+    "instruction": "Is there an airplane in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000468736.jpg",
+    "instruction": "Is there a bowl in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000470095.jpg",
+    "instruction": "Is there a snowboard in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000026501.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000291664.jpg",
+    "instruction": "Is there a dog in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000372317.jpg",
+    "instruction": "Is there a bus in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000315705.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000364274.jpg",
+    "instruction": "Is there a kite in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000242465.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000502663.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000157365.jpg",
+    "instruction": "Is there a skateboard in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000502663.jpg",
+    "instruction": "Is there a dining table in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000215062.jpg",
+    "instruction": "Is there a dining table in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000262440.jpg",
+    "instruction": "Is there a toilet in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000112751.jpg",
+    "instruction": "Is there a dining table in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000270048.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000527906.jpg",
+    "instruction": "Is there a bottle in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000568508.jpg",
+    "instruction": "Is there a dining table in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000461884.jpg",
+    "instruction": "Is there a handbag in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000502663.jpg",
+    "instruction": "Is there a backpack in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000309539.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000465588.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000469719.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000215062.jpg",
+    "instruction": "Is there a broccoli in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000257864.jpg",
+    "instruction": "Is there a bowl in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000220344.jpg",
+    "instruction": "Is there a giraffe in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000215062.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000031392.jpg",
+    "instruction": "Is there a dining table in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000237517.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000275744.jpg",
+    "instruction": "Is there a train in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000281032.jpg",
+    "instruction": "Is there an oven in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000176289.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000262440.jpg",
+    "instruction": "Is there a bottle in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000425805.jpg",
+    "instruction": "Is there a pizza in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000121632.jpg",
+    "instruction": "Is there a fork in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000329568.jpg",
+    "instruction": "Is there a truck in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000257336.jpg",
+    "instruction": "Is there a dining table in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000501023.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000152740.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000437145.jpg",
+    "instruction": "Is there a train in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000152740.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000436264.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000309539.jpg",
+    "instruction": "Is there a dining table in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000005724.jpg",
+    "instruction": "Is there a microwave in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000031597.jpg",
+    "instruction": "Is there a giraffe in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000330681.jpg",
+    "instruction": "Is there a stop sign in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000381999.jpg",
+    "instruction": "Is there a surfboard in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000369482.jpg",
+    "instruction": "Is there a car in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000004749.jpg",
+    "instruction": "Is there a banana in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000232625.jpg",
+    "instruction": "Is there a snowboard in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000357992.jpg",
+    "instruction": "Is there a laptop in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000254491.jpg",
+    "instruction": "Is there a bicycle in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000108440.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000108440.jpg",
+    "instruction": "Is there a train in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000138517.jpg",
+    "instruction": "Is there a chair in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000142942.jpg",
+    "instruction": "Is there a car in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000184972.jpg",
+    "instruction": "Is there a car in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000191471.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000357992.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000209901.jpg",
+    "instruction": "Is there a truck in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000485909.jpg",
+    "instruction": "Is there a tv in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000063595.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000236461.jpg",
+    "instruction": "Is there a car in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000157365.jpg",
+    "instruction": "Is there a traffic light in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000359239.jpg",
+    "instruction": "Is there a wine glass in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000176289.jpg",
+    "instruction": "Is there a sink in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000075591.jpg",
+    "instruction": "Is there a dining table in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000386012.jpg",
+    "instruction": "Is there a sandwich in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000258762.jpg",
+    "instruction": "Is there a cell phone in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000281032.jpg",
+    "instruction": "Is there a potted plant in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000257336.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000031597.jpg",
+    "instruction": "Is there a vase in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000026501.jpg",
+    "instruction": "Is there a clock in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000502663.jpg",
+    "instruction": "Is there a hair drier in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000228411.jpg",
+    "instruction": "Is there a toaster in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000425805.jpg",
+    "instruction": "Is there a bottle in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000136218.jpg",
+    "instruction": "Is there a dining table in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000214046.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000441072.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000214664.jpg",
+    "instruction": "Is there a bowl in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000232625.jpg",
+    "instruction": "Is there a snowboard in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000133821.jpg",
+    "instruction": "Is there a bird in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000566920.jpg",
+    "instruction": "Is there a dining table in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000441072.jpg",
+    "instruction": "Is there a bed in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000324258.jpg",
+    "instruction": "Is there a couch in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000453166.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000316700.jpg",
+    "instruction": "Is there a bowl in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000296906.jpg",
+    "instruction": "Is there a skis in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000344875.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000254491.jpg",
+    "instruction": "Is there a bicycle in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000051801.jpg",
+    "instruction": "Is there a car in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000382533.jpg",
+    "instruction": "Is there a tv in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000157365.jpg",
+    "instruction": "Is there a suitcase in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000079229.jpg",
+    "instruction": "Is there a car in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000157365.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000505243.jpg",
+    "instruction": "Is there a tv in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000327352.jpg",
+    "instruction": "Is there a dining table in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000545250.jpg",
+    "instruction": "Is there a dining table in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000060792.jpg",
+    "instruction": "Is there a tv in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000572630.jpg",
+    "instruction": "Is there a dining table in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000565986.jpg",
+    "instruction": "Is there a baseball glove in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000465868.jpg",
+    "instruction": "Is there a cat in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000060792.jpg",
+    "instruction": "Is there a dining table in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000006894.jpg",
+    "instruction": "Is there an elephant in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000417481.jpg",
+    "instruction": "Is there a dining table in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000031597.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000102174.jpg",
+    "instruction": "Is there a mouse in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000262466.jpg",
+    "instruction": "Is there a dining table in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000307932.jpg",
+    "instruction": "Is there an elephant in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000333845.jpg",
+    "instruction": "Is there an apple in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000397225.jpg",
+    "instruction": "Is there a tv in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000340478.jpg",
+    "instruction": "Is there a horse in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000195914.jpg",
+    "instruction": "Is there a cup in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000330681.jpg",
+    "instruction": "Is there a stop sign in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000214664.jpg",
+    "instruction": "Is there a remote in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000397225.jpg",
+    "instruction": "Is there an umbrella in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000525702.jpg",
+    "instruction": "Is there a fork in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000152740.jpg",
+    "instruction": "Is there a cow in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000262466.jpg",
+    "instruction": "Is there a vase in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000200567.jpg",
+    "instruction": "Is there a baseball glove in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000445953.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000448849.jpg",
+    "instruction": "Is there a frisbee in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000428992.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000289194.jpg",
+    "instruction": "Is there a baseball glove in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000557562.jpg",
+    "instruction": "Is there a tie in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000163258.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000049683.jpg",
+    "instruction": "Is there a car in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000289194.jpg",
+    "instruction": "Is there a chair in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000465868.jpg",
+    "instruction": "Is there a keyboard in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000259879.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000209901.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000315705.jpg",
+    "instruction": "Is there a tennis racket in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000307932.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000382533.jpg",
+    "instruction": "Is there a refrigerator in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000212688.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000076176.jpg",
+    "instruction": "Is there a bird in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000501023.jpg",
+    "instruction": "Is there a traffic light in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000236461.jpg",
+    "instruction": "Is there a dining table in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000357992.jpg",
+    "instruction": "Is there a chair in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000453166.jpg",
+    "instruction": "Is there a tie in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000209901.jpg",
+    "instruction": "Is there a traffic light in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000417481.jpg",
+    "instruction": "Is there a cup in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000112751.jpg",
+    "instruction": "Is there a banana in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000291664.jpg",
+    "instruction": "Is there a dog in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000329568.jpg",
+    "instruction": "Is there a bowl in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000291791.jpg",
+    "instruction": "Is there a backpack in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000545250.jpg",
+    "instruction": "Is there a car in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000557562.jpg",
+    "instruction": "Is there a refrigerator in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000242465.jpg",
+    "instruction": "Is there a spoon in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000220344.jpg",
+    "instruction": "Is there a zebra in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000076176.jpg",
+    "instruction": "Is there a chair in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000435707.jpg",
+    "instruction": "Is there a dining table in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000386012.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000287235.jpg",
+    "instruction": "Is there a bicycle in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000572630.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000558371.jpg",
+    "instruction": "Is there a broccoli in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000397225.jpg",
+    "instruction": "Is there a car in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000551608.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "random"
+  },
+  {
+    "filename": "COCO_val2014_000000400152.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000465868.jpg",
+    "instruction": "Is there a laptop in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000537369.jpg",
+    "instruction": "Is there a chair in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000532876.jpg",
+    "instruction": "Is there a dining table in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000289194.jpg",
+    "instruction": "Is there a clock in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000486355.jpg",
+    "instruction": "Is there a car in the image? Answer with just one word.",
+    "response": "no",
+    "subset": "adversarial"
+  },
+  {
+    "filename": "COCO_val2014_000000327352.jpg",
+    "instruction": "Is there a train in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "popular"
+  },
+  {
+    "filename": "COCO_val2014_000000113251.jpg",
+    "instruction": "Is there a person in the image? Answer with just one word.",
+    "response": "yes",
+    "subset": "adversarial"
+  }
+]

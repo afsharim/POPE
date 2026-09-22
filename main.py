@@ -4,7 +4,7 @@ import json
 import random
 from typing import List, Any
 
-from utils import get_image, generate_ground_truth_objects, pope
+from utils import get_image, generate_ground_truth_objects, pope, pope_disjoint
 
 
 # from SEEM.app import run_seem
@@ -16,9 +16,9 @@ def parse_args():
     parser.add_argument("--auto_seg", type=bool, default=False, help="Whether to use automatic segmentation")
     parser.add_argument("--img_path", type=str, default="./image/", help="The path to images to be segmented")
     parser.add_argument("--seg_path", type=str, default="./segmentation/coco_ground_truth_segmentation.json", help="The segmentation file")
-    parser.add_argument("--seg_num", type=int, default=1000, help="The number of images to be segmented")
-    parser.add_argument("--sample_num", type=int, default=3, help="The number of sampled negative objects")
-    parser.add_argument("--img_num", type=int, default=500, help="The number of images used for building POPE")
+    parser.add_argument("--seg_num", type=int, default=50000, help="The number of images to be segmented")
+    parser.add_argument("--sample_num", type=int, default=1, help="The number of sampled negative objects")
+    parser.add_argument("--img_num", type=int, default=20000, help="The number of images used for building POPE")
     parser.add_argument("--template", type=str, default="Is there a {} in the image?", help="The prompt template of POPE")
     parser.add_argument("--dataset", type=str, default="coco", help="The name of dataset, which is used as filename")
     parser.add_argument("--save_path", type=str, default="./output/", help="The save path of generated POPE")
@@ -54,10 +54,9 @@ def main():
 
     ground_truth_objects = generate_ground_truth_objects(processed_segment_results, save_path, config.dataset)
 
-    # Generate three kinds of POPE
-    pope(ground_truth_objects, processed_segment_results, config.sample_num, config.template, "random", save_path, config.dataset)
-    pope(ground_truth_objects, processed_segment_results, config.sample_num, config.template, "popular", save_path, config.dataset)
-    pope(ground_truth_objects, processed_segment_results, config.sample_num, config.template, "adversarial", save_path, config.dataset)
+    # Generate three kinds of POPE together, with no question shared across the
+    # random/popular/adversarial subsets for the same image.
+    pope_disjoint(ground_truth_objects, processed_segment_results, config.sample_num, config.template, save_path, config.dataset)
 
 
 if __name__ == '__main__':

@@ -1,0 +1,3002 @@
+[
+  {
+    "filename": "COCO_val2014_000000128476.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000542959.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000058737.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000242379.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000112751.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000472256.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000428280.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000450129.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000361027.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000199339.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000089432.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000464911.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000026445.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000370697.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000411941.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000578821.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000001757.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000424227.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000253426.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000217137.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000563797.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000097337.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000301765.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000028378.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000020796.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000023696.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000516414.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000008599.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000362329.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000205693.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000401991.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000026941.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000503196.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000210442.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000416786.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000472598.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000527501.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000221350.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000328661.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000219201.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000207967.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000438046.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000276055.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000020070.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000396542.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000530875.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000094852.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000176852.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000282098.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000115455.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000316007.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000477273.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000484331.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000180925.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000289059.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000270474.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000560675.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000476005.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000481895.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000374115.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000561783.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000031829.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000457691.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000230247.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000384651.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000394449.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000163970.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000349689.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000523565.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000356863.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000082293.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000417846.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000485071.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000103114.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000155644.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000497031.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000374060.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000352729.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000466787.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000027517.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000447546.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000040042.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000293554.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000565761.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000551737.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000374401.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000161642.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000160183.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000478689.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000215482.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000011320.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000189446.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000514681.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000523217.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000220367.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000384811.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000490125.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000326913.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000551439.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000335839.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000437465.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000256035.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000522791.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000580410.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000005356.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000364705.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000488915.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000123580.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000494634.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000535226.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000195045.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000405531.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000052017.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000458549.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000347254.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000543620.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000528875.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000189806.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000481267.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000393547.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000462315.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000339678.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000394533.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000328962.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000001353.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000513585.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000515219.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000314757.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000436691.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000572399.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000026051.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000217948.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000168416.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000525587.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000557785.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000171880.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000087364.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000525899.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000242566.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000030080.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000066239.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000078979.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000015663.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000431923.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000013637.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000267628.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000236747.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000255470.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000104619.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000175642.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000327500.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000276585.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000065288.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000158999.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000151832.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000242510.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000502979.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000159736.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000259728.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000280515.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000433625.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000305876.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000473196.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000451373.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000109045.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000022051.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000296859.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000367619.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000326462.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000400925.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000179199.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000245540.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000103863.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000240767.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000486536.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000198492.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000577451.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000410880.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000019444.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000214109.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000016689.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000377999.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000139512.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000032682.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000152336.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000424445.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000482974.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000406097.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000519649.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000209602.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000492723.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000429985.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000212058.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000499618.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000028506.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000375566.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000549386.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000305101.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000405674.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000054516.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000284220.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000119995.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000201496.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000044061.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000291845.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000066468.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000072052.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000295303.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000283495.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000150413.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000538858.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000239857.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000124766.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000007952.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000534601.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000034830.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000563267.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000206806.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000543872.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000439472.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000162732.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000485447.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000034474.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000359592.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000190291.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000329932.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000093965.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000195367.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000546983.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000412204.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000564058.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000184919.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000469085.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000099416.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000370980.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000281782.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000480536.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000476412.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000016005.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000308883.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000383039.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000267802.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000016897.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000149197.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000190689.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000311081.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000537150.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000129416.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000322480.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000408746.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000202476.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000253520.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000091779.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000360730.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000522430.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000326928.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000509468.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000461805.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000507663.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000222788.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000061314.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000037339.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000080274.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000127259.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000161044.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000158160.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000513312.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000202438.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000254917.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000315705.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000572678.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000482574.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000350485.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000322177.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000323571.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000108679.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000277563.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000223300.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000575916.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000465879.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000129587.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000553420.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000526021.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000099260.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000304596.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000035897.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000386803.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000068650.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000361472.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000140332.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000119233.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000324155.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000109516.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000560566.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000359677.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000072368.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000544432.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000525087.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000212545.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000539888.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000077460.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000253718.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000347422.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000281448.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000538259.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000509459.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000109206.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000436323.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000263425.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000102872.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000042551.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000281598.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000011364.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000013632.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000087399.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000393692.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000109916.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000036713.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000179114.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000227399.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000559956.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000400983.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000153973.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000110434.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000430047.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000158956.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000229096.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000151138.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000097865.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000414122.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000359937.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000517861.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000280008.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000525050.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000240751.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000454561.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000299077.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000095039.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000196995.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000301762.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000036420.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000025433.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000009769.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000569058.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000304220.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000428812.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000372070.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000298137.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000379156.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000058614.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000060090.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000301735.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000573896.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000434657.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000106228.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000237316.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000204507.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000517855.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000447152.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000338384.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000246221.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000174097.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000516628.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000197200.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000292529.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000189213.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000233711.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000343413.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000077050.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000267169.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000085101.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000426777.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000086011.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000547875.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000322222.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000215845.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000371289.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000292171.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000037882.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000310611.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000177913.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000301236.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000552454.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000288465.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000233139.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000317595.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000095862.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000519275.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000552395.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000568502.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000087677.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000232574.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000209147.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000019090.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000231339.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000382542.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000067886.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000254927.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000526030.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000066561.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000070774.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000020107.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000009217.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000277080.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000342060.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000469859.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000447088.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000146773.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000095843.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000477949.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000311510.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000072839.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000485887.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000164305.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000170651.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000142620.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000135167.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000303818.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000291179.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000101985.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000490639.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000574178.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000279649.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000120566.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000196336.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000135410.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000520478.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000029430.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000300655.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000527535.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000195002.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000169250.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000284535.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000411841.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000512729.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000150208.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000045053.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000234595.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000240033.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000060340.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000425526.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000409496.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000524061.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000237463.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000516396.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000418297.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000513149.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000432176.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000010107.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000376358.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000322119.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000245201.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000463134.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000022660.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000397045.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000544246.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000017769.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000058001.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000337497.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000553511.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000132415.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000566096.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000119404.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000132682.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000246233.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000263202.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000378538.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000537954.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000381842.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000163258.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000084968.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000221725.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000463303.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000007023.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000168714.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000504074.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000301634.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000477466.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000417164.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000214363.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000226173.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000297676.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000471955.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000456328.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000213799.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000392493.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000320524.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000534270.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000261824.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000208585.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000044723.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000067207.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000488198.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000350988.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000151670.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000488086.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000193388.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000296707.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000284296.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  },
+  {
+    "filename": "COCO_val2014_000000285200.jpg",
+    "instruction": "Describe this image in detail.",
+    "response": "",
+    "subset": "descriptive"
+  }
+]

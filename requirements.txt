@@ -1,8 +1,8 @@
 accelerate==0.16.0
--e git+ssh://git@github.com/MaureenZOU/detectron2-xyz.git@42121d75e10d9f858f3a91b6a39f5722c02868f0#egg=detectron2
+# -e git+ssh://git@github.com/MaureenZOU/detectron2-xyz.git@42121d75e10d9f858f3a91b6a39f5722c02868f0#egg=detectron2
 -e git+ssh://git@github.com/arogozhnikov/einops.git@5e6674c573e20b3a1fa733621c16df0dc56dff2a#egg=einops
 einops-exts==0.0.4
-numpy @ file:///croot/numpy_and_numpy_base_1672336185480/work
+# numpy @ file:///croot/numpy_and_numpy_base_1672336185480/work
 nvidia-cublas-cu11==11.10.3.66
 nvidia-cuda-cupti-cu11==11.7.101
 nvidia-cuda-nvrtc-cu11==11.7.99
@@ -34,10 +34,10 @@ tensorboard-data-server==0.7.0
 timm==0.6.13
 tokenizers==0.13.3
 torch==2.0.0
-torchaudio==0.12.1
-torchvision==0.13.1
+torchaudio==2.0.0
+torchvision==0.15.1
 tornado==6.3.1
-tqdm @ file:///home/conda/feedstock_root/build_artifacts/tqdm_1677948868469/work
+# tqdm @ file:///home/conda/feedstock_root/build_artifacts/tqdm_1677948868469/work
 transformers==4.28.0
 wandb==0.15.0
 webdataset==0.2.48
@@ -65,6 +65,6 @@ torchmetrics==0.6.0
 invisible-watermark
 diffusers==0.11.1
 altair
-git+https://github.com/arogozhnikov/einops.git
-git+https://github.com/MaureenZOU/detectron2-xyz.git
+# git+https://github.com/arogozhnikov/einops.git
+# git+https://github.com/MaureenZOU/detectron2-xyz.git
 git+https://github.com/openai/whisper.git
